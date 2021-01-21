@@ -31,15 +31,15 @@ def game_hash
       :rebounds => 19,
       :assists => 10,
       :steals => 3,
-      :blocks => ,
-      :slam_dunks =>
+      :blocks => 1,
+      :slam_dunks => 15
       },
-      {:player_name => "", 
-      :number => num,
-      :shoe => ,
-      :points => ,
-      :rebounds => ,
-      :assists => ,
+      {:player_name => "Mason Plumlee", 
+      :number => 1,
+      :shoe => 19,
+      :points => 26,
+      :rebounds => 11,
+      :assists => 6,
       :steals => ,
       :blocks => ,
       :slam_dunks =>
