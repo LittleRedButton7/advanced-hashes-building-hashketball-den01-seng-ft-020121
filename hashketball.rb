@@ -70,9 +70,9 @@ def game_hash
       :slam_dunks => 2
       },
       {:player_name => "Bismack Biyombo", 
-      :number => num,
-      :shoe => ,
-      :points => ,
+      :number => 0,
+      :shoe => 16,
+      :points => 12,
       :rebounds => ,
       :assists => ,
       :steals => ,
